@@ -10,7 +10,7 @@
   - Caching Pipeline, InMemory Cache, Redis Cache, Logging Pipeline, Serilog, Security and JWT, Mailing implementations.
 ### More
 - I’m currently learning more deeper with ASP.NET Core 8.
-
+###
 <h2 align="left">Technologies:</h2>
 ###
 

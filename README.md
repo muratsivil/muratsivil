@@ -3,7 +3,7 @@
 ## Working Experience:
 - 🧑🏻‍💻 I worked as Junior Software Developer at a German Company (Im-Par) 2 years 3 months. Working on Real Time Payment Implementation.
 ## Areas of Expertise:
-- 👀 I’m interested ASP .NET Core (C#) with Design Patterns and N-tier Architecture.
+- ASP .NET Core (C#) with Design Patterns and N-tier Architecture.
   - Experienced in ASP .NET Core development, emphasizing best practices
     such as SOLID principles and design patterns.
   - CQRS, DDD, Response Request Pattern, Dynamic Search, Response Request Pattern, Entity Framework implementation.

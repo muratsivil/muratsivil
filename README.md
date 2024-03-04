@@ -2,6 +2,17 @@
 - Hi 👋! My name is Murat and I'm a .NET | Backend Developer, from Turkey. I have been awarded the degree of Bachelor of Science in Computer Engineering.
 ## Working Experience:
 - 🧑🏻‍💻 I worked as Junior Software Developer at a German Company (Im-Par) 2 years 3 months. Working on Real Time Payment Implementation.
+  - Actively engaged in the development of real-time payment engines, ensuring high-performance and reliability.
+
+  - Spearheaded the implementation of a Microservices architecture, optimizing communication between Docker containers using Redis.
+
+  - Proficiently used GoLang to develop and maintain critical components of the software, enhancing efficiency and robustness.
+
+  - Collaborated seamlessly with cross-functional teams to facilitate the integration of Microservices into the system.
+
+  - Continuously contributed to system optimization and performance improvements.
+
+  - Successfully tackled a multitude of technical challenges within a dynamic and fast-paced environment. 
 ## Areas of Expertise:
 - ASP .NET Core (C#) with Design Patterns and N-tier Architecture.
   - Experienced in ASP .NET Core development, emphasizing best practices

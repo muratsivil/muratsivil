@@ -17,7 +17,7 @@
 - ASP .NET Core (C#) with Design Patterns and N-tier Architecture.
   - Experienced in ASP .NET Core development, emphasizing best practices
     such as SOLID principles and design patterns.
-  - CQRS, DDD, Response Request Pattern, Dynamic Search, Response Request Pattern, Entity Framework implementation.
+  - CQRS, DDD, Response Request Pattern, Dynamic Search, Entity Framework implementation.
   - Caching Pipeline, InMemory Cache, Redis Cache, Logging Pipeline, Serilog, Security and JWT, Mailing implementations.
 ### More
 - I’m currently learning more deeper with ASP.NET Core 8.

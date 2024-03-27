@@ -1,6 +1,10 @@
 ## About me:
 - Hi 👋! My name is Murat and I'm a .NET | Backend Developer, from Turkey. I have been awarded the degree of Bachelor of Science in Computer Engineering.
+
 ## Working Experience:
+### Currently
+- 🧑🏻‍💻 I'm currently(March 2024) working at GTS Global Travel Services as Junior .NET Developer.
+  
 - 🧑🏻‍💻 I worked as Junior Software Developer at a German Company (Im-Par) 2 years 3 months. Working on Real Time Payment Implementation.
   - Actively engaged in the development of real-time payment engines, ensuring high-performance and reliability.
 
